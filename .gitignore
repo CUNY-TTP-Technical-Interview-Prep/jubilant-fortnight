@@ -340,3 +340,4 @@ cython_debug/
 /hidden
 
 108.convert-sorted-array-to-binary-search-tree.py
+347.top-k-frequent-elements.py
